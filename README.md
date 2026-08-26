@@ -14,7 +14,7 @@ Jimmy PV Monitorは、WordPressサイトのPV（ページが表示された回�
 
 ## ダウンロード
 
-配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[ジミログ](https://jimmy-blog.com/)をご確認ください。
+配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[Jimmy PV Monitor ダウンロードページ](https://jimmy-blog.com/jimmy-pv-monitor/)をご確認ください。
 
 このGitHubリポジトリは、説明書、更新内容、利用上の注意を確認するための場所です。
 
@@ -93,7 +93,7 @@ PVは自動では公開されません。
 
 Pro版では、期間内で重複しない訪問者数、訪問回数、記事から記事への移動、訪問全体の流れ、記事別導線、外部サイトへの離脱を確認できます。
 
-Pro版はFree版とは別に配布します。Free版・Pro版のどちらもGitHubには配布用ZIPを置かず、[ジミログ](https://jimmy-blog.com/)内で案内します。
+Pro版はFree版とは別に配布します。Free版・Pro版のどちらもGitHubには配布用ZIPを置かず、[Jimmy PV Monitor ダウンロードページ](https://jimmy-blog.com/jimmy-pv-monitor/)で案内します。
 
 ## データとプライバシー
 
