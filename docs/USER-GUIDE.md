@@ -4,7 +4,7 @@
 
 ## 0. ZIPの入手
 
-配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[ジミログ](https://jimmy-blog.com/)をご確認ください。
+配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[Jimmy PV Monitor ダウンロードページ](https://jimmy-blog.com/jimmy-pv-monitor/)をご確認ください。
 
 ダウンロードしたZIPは解凍せず、そのままWordPressへアップロードします。
 
@@ -166,7 +166,7 @@
 ## 7. 更新方法
 
 1. 念のためWordPressのファイルとデータベースをバックアップします。
-2. [ジミログ](https://jimmy-blog.com/)内の配布案内から新しいZIPをダウンロードします。
+2. [Jimmy PV Monitor ダウンロードページ](https://jimmy-blog.com/jimmy-pv-monitor/)から新しいZIPをダウンロードします。
 3. 「プラグイン」→「新規プラグインを追加」→「プラグインのアップロード」を開きます。
 4. 新しいFree版ZIPを選択します。
 5. 現在のバージョンを置き換える操作を実行します。

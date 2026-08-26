@@ -87,7 +87,7 @@ WordPressマルチサイトには対応していません。
 
 ### 使用するファイル
 
-配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[ジミログ](https://jimmy-blog.com/)をご確認ください。
+配布用ZIPはGitHub上では公開していません。Free版・Pro版ともに、最新の配布案内とZIPのダウンロードは[Jimmy PV Monitor ダウンロードページ](https://jimmy-blog.com/jimmy-pv-monitor/)をご確認ください。
 
 インストールに使用するファイルは次のZIPです。
 
